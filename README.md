@@ -1,7 +1,8 @@
 ## <p align="center">Dear-PSM：a deep learning-based peptide search engine enables full database search for proteomics</p> 
 
 ## Introduction
-Dear-PSM, a peptide search engine that supports full database searching. It does not restrict peptide mass errors, matching each spectrum to all peptides in the database and increasing the number of variable modifications per peptide from the conventional 3 to 20. 
+Dear-PSM, a peptide search engine that supports full database searching. 
+- It does not restrict peptide mass errors, matching each spectrum to all peptides in the database and increasing the number of variable modifications per peptide from the conventional 3 to 20. 
 
 ## Usage
 ```
