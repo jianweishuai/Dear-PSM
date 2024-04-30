@@ -5,7 +5,7 @@
 # This is the dearpsm parameters file. 
 # Everything following the '#' symbol means comment.
 
-search_mode = 1	# Full search=0; Narrow search=1
+search_mode = 1	# Full search=1; Narrow search=0
 
 fasta_name = F:\Dear-PSM\Benchmark\Fasta\uniprot-mixed-human-yeast-ecoli-decoys-20230407.fasta
 
