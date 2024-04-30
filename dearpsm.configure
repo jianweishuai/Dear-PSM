@@ -7,10 +7,10 @@
 
 search_mode = 1	# Full search=1; Narrow search=0
 
-fasta_name = F:\Dear-PSM\Benchmark\Fasta\uniprot-mixed-human-yeast-ecoli-decoys-20230407.fasta
+fasta_name = /path/to/db.fasta
 
-ms1_tol_ppm = 10	# Tolerance of precursor m/z. Note: only use in narrow search! The use can set it to any number in full search.
-ms2_tol_ppm = 100	# Tolerance of fragment m/z.
+ms1_tol_ppm = -1	# Tolerance of precursor m/z. Note: only use in narrow search! The use can set it to any number in full search.
+ms2_tol_ppm = 10	# Tolerance of fragment m/z.
 ms1_max_charge = 4	# Precursor max charge.
 miss_cleavage = 2	# Miss cleavage of enzyme digestion 
 decoy_prefix = rev_	# Prefix of decoy proteins in fasta database
