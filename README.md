@@ -3,11 +3,11 @@
 ## Introduction
 Dear-PSM, a novel peptide search engine that revolutionizes this approach by supporting full database searching without restricting peptide mass errors and significantly expanding the number of allowable variable modifications per peptide.
 Dear-PSM achieves significant breakthroughs:
-- Expanded Search Scope: Dear-PSM increases the search range by 40-fold, allowing peptide mass errors from -6000 to 4500 Daltons.
-- Increased Modification Flexibility: We elevate the maximum allowable modifications per peptide from 3 to 20, expanding potential modification combinations from 5000 to1000,000.
+- Expanded Search Scope: Dear-PSM increases the search range by 40-fold, allowing peptide mass errors from **-6000 to 4500 Daltons**.
+- Increased Modification Flexibility: We elevate the maximum allowable modifications per peptide from 3 to 20, expanding potential **modification combinations from 5000 to 1,000,000**.
 - High Reproducibility and Novel Discovery: Dear-PSM reproduces over 90% of mainstream search engine results while uncovering a substantial number of new peptides and proteins.
-- Enhanced Modification Data Analysis: In phosphorylation data analysis, Dear-PSM increases the candidate peptide count from the traditional 140 million to approximately 3 billion, enabling peptide searches at the scale of billions.
-- Improved Performance: Dear-PSM runs 3 to 7 times faster than mainstream search engines on regular desktops, with memory consumption reduced by 100 to 240 times.
+- Enhanced Modification Data Analysis: In phosphorylation data analysis, Dear-PSM increases the **candidate peptide** count from the traditional 140 million to approximately **3 billion**, enabling peptide searches at the scale of billions.
+- Improved Performance: Dear-PSM runs **3 to 7 times faster** than mainstream search engines on regular desktops, with **memory consumption reduced by 100 to 240 times**.
 
 ## Usage
 ```
