@@ -47,7 +47,7 @@ Please enter the path of the Dear-PSM output file below:
 Please enter the fdr type below, choose "prot" or  "pept":
 prot
 ```
-## Configure File
+## Dear-PSM Configure File
 ```
 # Welcome to use dearpsm v1.0.0 software.
 # Development team from Xiamen University, China.
