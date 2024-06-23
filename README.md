@@ -10,6 +10,7 @@ Dear-PSM achieves significant breakthroughs:
 - Improved Performance: Dear-PSM runs **3 to 7 times faster** than mainstream search engines on regular desktops, with **memory consumption reduced by 100 to 240 times**.
 
 ## Usage
+### Dear-PSM for Peptide Search
 ```
 [Small number of files]: 
 DearPSM.exe --config=dearpsm.configure --out_dir=/path/to/output_dir/ --input=xx.mzML;yy.mzML;zz.mzML
@@ -30,4 +31,19 @@ Introduction of args:
 Note: the paths of input files and output directory should not include 'Space' char.
     If there is no dearpsm.configure, please run the following command:
         DearPSM.exe --p
+```
+### Dear-VIP for Peptide Validation
+#### Requirment
+- Numpy
+- Pytorch
+- pickle
+
+```
+[Command line]
+python DearVIP-v1.0.0.py
+
+Please enter the path of the Dear-PSM output file below:
+/path/to/dearpsm_combine_result.tsv
+Please enter the fdr type below, choose "prot" or  "pept":
+prot
 ```
