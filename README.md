@@ -33,7 +33,7 @@ Note: the paths of input files and output directory should not include 'Space' c
         DearPSM.exe --p
 ```
 ### Dear-VIP for Peptide Validation
-#### Requirment
+#### Requirment of python packages
 - Numpy
 - Pytorch
 - pickle
